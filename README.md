@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋 Im Auliya Oni Priyandika. I love code
+
+![Top Langs](https://github-readme-stats.vercel.app/api?username=oniauliya99&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oniauliya99&layout=compact&theme=radical)](https://github.com/oniauliya99/github-readme-stats)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.facebook.com/oni.uchiha.1" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="oniauliya" height="30" width="40" /></a>
+<a href="https://www.instagram.com/oniiprii_/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="oniauliya" height="30" width="40" /></a>
+</p> 
+
 
 <!--
 **oniauliya99/oniauliya99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
