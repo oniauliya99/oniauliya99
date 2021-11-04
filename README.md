@@ -20,13 +20,6 @@
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **He/Him/His**
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **Best Part of The Journey: *It Ends***
 <br/>
-<br/>
-
-
-#
-
-
-<br/>
 
 #
 <p align="center">
