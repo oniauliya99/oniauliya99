@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Auliya Oni
 
-💻 Backend Developer | 🚀 Tech Enthusiast | 📚 Lifelong Learner  
+💻 FullStack Developer | 🚀 Tech Enthusiast | 📚 Lifelong Learner  
 
 ---
 
