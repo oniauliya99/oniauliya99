@@ -1,63 +1,53 @@
-# 👨‍💻 AULIYA ONI PRIYANDIKA
+# 👋 Hi, I’m Auliya Oni
 
-## 🚀 Backend & Full-Stack Developer
+💻 Backend Developer | 🚀 Tech Enthusiast | 📚 Lifelong Learner  
 
-Specializing in NestJS, React, WebSockets, Microservices, and Compute Engine
+---
 
-🔹 About Me
+## 🌟 About Me
+- 🔭 Currently working as a **Backend Developer** at a beauty clinic system  
+- 💡 Passionate about building **scalable web applications** and clean backend architecture  
+- 🌱 Currently learning **Golang, Microservices, and Cloud Deployment**  
+- 🎯 Goal: Become a tech founder and **build impactful products**  
+- 💬 Ask me about **NestJS, Prisma, SQL, Microservices, and System Design**
 
-I am a highly skilled backend developer with expertise in NestJS and React, building scalable and efficient applications. I have experience in designing microservices architectures, real-time data processing with WebSockets, and deploying applications on Google Compute Engine.
+---
 
-🔹 Tech Stack & Skills
+## 🛠 Tech Stack
 
-🔹 Backend Development
-- NestJS - Modular and scalable backend services
-- Prisma ORM - Database management and queries
-- Microservices - Event-driven architecture using RabbitMQ & Kafka
-- WebSockets - Real-time communication using Socket.io
-- Authentication & Security - JWT, OAuth, SSO implementation
-- SQL & NoSQL Databases - PostgreSQL, MySQL, MongoDB
+**Frontend & Mobile**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-🔹 Frontend Development
+**Backend**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-- React.js & Next.js - Modern UI development
-- Tailwind CSS - Efficient styling framework
-- API Integration - Fetching and managing backend data
-- Infrastructure & DevOps
-- Google Compute Engine - Cloud infrastructure deployment
-- Docker & Kubernetes - Containerization & orchestration
-- PM2 - Process manager for Node.js applications
-- CI/CD Pipelines - Automating deployments using GitHub Actions
+**Database & ORM**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
+**Tools & Infrastructure**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Kong](https://img.shields.io/badge/Kong-003459?style=for-the-badge&logo=kong&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-🏆 Key Projects
+---
 
-🔹 Secure Payment System & Synchronize local server to cloud server
+## 📫 Let’s Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourname@gmail.com)  
 
-Developed a robust payment system handling transactions, ensuring security and compliance.
+---
 
-Implemented real-time transaction tracking using WebSockets.
-
-Used RabbitMQ for asynchronous processing of payment requests.
-
-🔹 Lviors Medical Record Electronic - Satu Sehat Integration
-
-Built a medical records system that integrates with Satu Sehat Platform.
-
-Designed a secure data exchange system with OAuth2 authentication.
-
-Optimized performance using caching strategies with Redis.
-
-🔹 Employee Payroll System
-
-Created a complete payroll management system handling salaries, deductions, and reports.
-
-Implemented role-based access control (RBAC) for security.
-
-Used Prisma ORM with SQL Server for database integrity.
-
-🔹 Contact Me
-
-📩 Email: oniauliya99@gmail.com💼 LinkedIn: linkedin.com/in/auliyaoni📂 GitHub: github.com/oniauliya99
-
-⭐ Let's Build Something Awesome Together!
+✨ *“Code is like humor. When you have to explain it, it’s bad.”* ✨
